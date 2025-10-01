@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="container">
       <h1>Warehouse</h1>
+      <h2>Cherry stock</h2>
     </div>
   );
 }
