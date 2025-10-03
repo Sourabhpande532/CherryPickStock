@@ -4,7 +4,6 @@ export const Header = () => {
   return (
     <>
       <main className=''>
-        <header>
           <nav>
             <ul className='nav'>
               <li>
@@ -23,7 +22,6 @@ export const Header = () => {
               </fieldset>
             </ul>
           </nav>
-        </header>
       </main>
     </>
   );
